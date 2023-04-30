@@ -10,6 +10,7 @@
  Lessons learned:
 - How to implement Dark Mode
 - Separation of Concerns
+- Development cards
 
 
  Things to Improve:
