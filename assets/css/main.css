@@ -228,6 +228,11 @@ hr {
 .align-right {
   text-align: right; }
 
+.box {
+  transform-style: preserve-3d;
+  box-shadow: 0 0 4px 0 #ccc;
+  width: 200px;
+}
 /* Row */
 .row {
   display: flex;
@@ -2304,5 +2309,4 @@ p.copyright em.change {
 }
 a.button.change {
     color: white !important;
-    
 }
