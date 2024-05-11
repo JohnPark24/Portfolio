@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Visit the Portfolio HERE or in the About section.
 
 Welcome to my portfolio!
