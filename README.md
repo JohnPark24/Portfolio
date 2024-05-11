@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Visit the Portfolio HERE or in the About section.
 
 Welcome to my portfolio!
@@ -29,4 +28,3 @@ Include better projects and better detail in the about me section.
 
  Things to Improve:
 - Include better projects and better detail in the about me section.
->>>>>>> 3f3e9b642209f65be213a1defd7cbe8cfae1631e
